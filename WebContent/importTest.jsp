@@ -14,3 +14,4 @@
 	<h1>현재 시간은 <%=new SimpleDateFormat().format(new Date()) %>입니다.</h1>
 </body>
 </html>
+
